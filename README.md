@@ -25,6 +25,7 @@ go run main.go
 ```
 
 
+
 ## Proxy
 It is a service which behaves as proxy/gateway to all the backend services.
 This service can perform various functions such as authenticating user, auditing sessions, routing requests to
