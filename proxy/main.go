@@ -1,4 +1,4 @@
-package main
+eb49cd14065832b09f6fb676205e35f1a170d82epackage main
 
 import (
 	"net/url"
